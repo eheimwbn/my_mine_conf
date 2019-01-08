@@ -4,7 +4,7 @@ description of Minecraft commands and their availability to users.
 
 ## groups:
 ###  Default:
-   ```
+```
     - essentials.warp
     - essentials.warp.list
     - essentials.signs.use.warp
@@ -37,7 +37,7 @@ description of Minecraft commands and their availability to users.
     
     - craftbook.mech.command.use
     - craftbook.mech.pay.use
-    ```
+```
 ### Sir:
     - Default
 ### Knight:
@@ -46,7 +46,7 @@ description of Minecraft commands and their availability to users.
     - Knight
 ### King:
     - Baron
-   
+```
     - essentials.fly.others
     - essentials.fly
     - essentials.ban
@@ -89,10 +89,8 @@ description of Minecraft commands and their availability to users.
     - worldguard.region.removeowner.*
     - worldguard.region.remove.*
     - worldguard.region.define.*
-    
-    ```
-    
-    
+```
+
 ## users:
 ### plutoniumsulfat
 ```
