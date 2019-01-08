@@ -2,8 +2,9 @@
 description of Minecraft commands and their availability to users. 
 
 
-groups:
-  Default:
+## groups:
+###  Default:
+   ```
     - essentials.warp
     - essentials.warp.list
     - essentials.signs.use.warp
@@ -36,13 +37,14 @@ groups:
     
     - craftbook.mech.command.use
     - craftbook.mech.pay.use
-  Sir:
+    ```
+### Sir:
     - Default
-  Knight:
+### Knight:
     - Sir
-  Baron:
+### Baron:
     - Knight
-  King:
+### King:
     - Baron
    
     - essentials.fly.others
@@ -88,10 +90,13 @@ groups:
     - worldguard.region.remove.*
     - worldguard.region.define.*
     
+    ```
     
-users:
- plutoniumsulfat
+    
+## users:
+### plutoniumsulfat
+```
     - minecraft.command.kill
     - essentials.joinfullserver
     - essentials.kittycannon
-
+```
