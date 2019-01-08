@@ -11,3 +11,5 @@
       - 'Diebstahl ist verboten'
       - 'psst %player, mir ist langweilig.'
       - 'zum speichern eurer level rechtsklick auf einen Verzaubungstisch'
+      - Seid fair zueinander.
+      - Macht nichts kaputt, was Euch nicht gehört.
