@@ -1,0 +1,13 @@
+ # By default every world includes global messages.
+    Message_List:
+      
+      # Messages displayed in all worlds.
+      global:
+      - Hey, %player, Plutoniumsulfat ist der Ober- Macker hier! Er ist Gesetz, Ankläger, Richter und Henker. Er ist PLUTO!
+      - 'Wir sind noch sehr am Anfang der Erstellung des Servers. Doch wir arbeiten konstant an der Verbesserung :)'
+      - 'Mutwilliges Zerstören oder Beschädigen der Landschaft auf dem Server ist verboten.'
+      - 'Mutwilliges Zerstören oder Beschädigen von Bauwerken anderer Benutzer in der Freebuildwelt ist verboten'
+      - 'Das Töten von friedlichen oder neutralen Mobs anderer Spieler in Gehegen etc. (dazu zählen auch Eisengolems!) ist verboten'
+      - 'Diebstahl ist verboten'
+      - 'psst %player, mir ist langweilig.'
+      - 'zum speichern eurer level rechtsklick auf einen Verzaubungstisch'
