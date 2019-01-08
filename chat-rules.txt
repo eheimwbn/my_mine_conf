@@ -18,10 +18,7 @@ then replace going to
 
 match (scheise | Scheise | Scheisse | scheisse | scheiße | Scheiße)
 then warn &cPfui! du wolltest sagen
-then replace oh nein
-
-match (youtube | YouTube | yt | YT | Youtube)
-then console say "Hier die vollständige Liste alles vergünstigungen für 'youtouber'. [leer]" 
+then replace oh nein 
 
 match (wtf|WTF)
 then warn &cPfui! du wolltest sagen
