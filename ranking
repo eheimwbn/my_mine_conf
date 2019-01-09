@@ -1,0 +1,12 @@
+#ranking list suggestion
+
+rank                 | vote count    | commands     | homes | freebuild plots | spawn plots | shop plots
+
+- Captain            | twist, plutö  |
+- Leutnant           | reserve       |
+- Admiral            | payed         | bottleXP, ec |  9 | 4 | 1 | 1
+- Offizier           | 451+          |              | 10 | 5 | 1 | 1
+- Schiffsingenieur   | 250-450       |  ec          |  7 | 3 | 1 | 1
+- Bootsmann          | 76-250        | bottleXP     |  4 | 2 | 1 | 1
+- Matrose            | 0-75          |              |  2 | 1 | 1 | -
+- Landratte          | 0             |              |  - | - | - | -
