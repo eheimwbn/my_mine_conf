@@ -14,3 +14,5 @@
       - 'Seid fair zueinander.'
       - 'Macht nichts kaputt, was Euch nicht gehört.'
       - 'Nimm dich in Acht vor Captain Twist! Wenn er auftaucht, kann es gefährlich werden!'
+      - 'unsere LiveMap findest du unter http://mc.radioactive-winds.de:8123'
+      - 'Materialbeschaffug bitte nur in den Abbauwelten. /warp abbau /warp nether /warp ende'
