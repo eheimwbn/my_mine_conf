@@ -13,3 +13,4 @@
       - 'zum speichern eurer level rechtsklick auf einen Verzaubungstisch'
       - 'Seid fair zueinander.'
       - 'Macht nichts kaputt, was Euch nicht gehört.'
+      - 'Nimm dich in Acht vor Captain Twist! Wenn er auftaucht, kann es gefährlich werden!'
