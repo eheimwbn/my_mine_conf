@@ -20,6 +20,10 @@ test
 - spawnegg chicken 1 1.6k 0
 - spawnegg parrot | wolf | ozelot | mosshroom | llama | donkey | horse | polar bear ?
 
+- beacon 1 4k 0
+- Sattel 1 250 0
+- Endstab 16 100 0
+
 #eventuell hinzufügen
 
 - sugar_cane 64 0 2
