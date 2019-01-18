@@ -12,7 +12,7 @@ test
 - diamond 1 0 50 ?
 - emerald 1 0 20 ?
 - gold_ingot 1 0 2
-- obsidian 64 0 75
+- obsidian 64 0 64
 
 - spawnegg pig 1 1.8k 0
 - spawnegg sheep 1 2.2k 0
@@ -20,9 +20,10 @@ test
 - spawnegg chicken 1 1.6k 0
 - spawnegg parrot | wolf | ozelot | mosshroom | llama | donkey | horse | polar bear ?
 
-- beacon 1 4k 0
+- beacon 1 5,5k 0
 - Sattel 1 250 0
 - Endstab 16 100 0
+- Seelaterne 16 250 0
 
 #eventuell hinzufügen
 
