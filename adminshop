@@ -5,20 +5,20 @@ test
 
 #beginning of adminshop price listing
 
-- cobblestone 64 0 5
-- clean_stone 64 0 7.5
+- cobblestone 64 0 4
+- clean_stone 64 0 7
 - andesite/diorite/granite 64 0 2.5
 - dirt 64 0 3
 - diamond 1 0 50 ?
-- emerald 1 0 20 ?
+- emerald 1 0 25 ?
 - gold_ingot 1 0 2
 - obsidian 64 0 64
 
 - spawnegg pig 1 1.8k 0
-- spawnegg sheep 1 2.2k 0
+- spawnegg sheep 1 2.3k 0
 - spawnegg cow 1 2k 0
-- spawnegg chicken 1 1.6k 0
-- spawnegg parrot | wolf | ozelot | mosshroom | llama | donkey | horse | polar bear ?
+- spawnegg chicken 1 1.5k 0
+- spawnegg parrot 3,5k| wolf 3,5k | ozelot 3,5k | mosshroom 11k | llama 4,5k | donkey 4,5k | horse 4,5k | polar bear 6,5k ?
 
 - beacon 1 4k 0
 - Sattel 1 250 0
